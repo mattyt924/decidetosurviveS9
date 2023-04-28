@@ -1,0 +1,46 @@
+body{
+  background-color: darkslategray;
+}
+
+
+.iframe-container{
+  Position: absolute;
+  Left: 430px;
+  Bottom: 390px;
+}
+
+.videobox{
+  width: 400px;
+  Height: 100px;
+  Border: 120px solid #182828;
+  padding: 50px;
+  margin: 20px;
+  Position: relative;
+  Left: 315px;
+  z-index: -1;
+
+
+}
+
+a:link, a:visited {
+  font-family:verdana;
+  background-color: darkseagreen;
+  color: white;
+  padding: 14px 25px;
+  Height: 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  Min-width: 90px;
+}
+
+
+
+.home{
+  position: absolute; 
+  top: 550px;
+  left: 645px;
+}
+
+
+
